@@ -1,3 +1,3 @@
 <design:component >
-    <design:attribute name="secondsTimer" description="Seconds" required="true"/>
+    <design:attribute name="secondsTimer" description="Amount of seconds (Integer)" required="true"/>
 </design:component>
