@@ -7,6 +7,6 @@ This is an aura component that allows setting a count-down in screens flows and 
 Youtube Video:
 https://youtu.be/JYZDJqEYoIA
 
-<a href="https://githubsfdeploy.herokuapp.com/?owner=limazeit&repo=ScreenLoading&ref=main">
+<a href="https://githubsfdeploy.herokuapp.com/?owner=limazeit&repo=ScreenFlowNextAction&ref=main">
     <img alt="Deploy to Salesforce" src="https://githubsfdeploy.herokuapp.com/resources/img/deploy.png">
 </a>
