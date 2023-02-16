@@ -1,4 +1,4 @@
-# Screen Loading
+# Salesforce Screen Flow - Automatically Countdown Loader
 
 This is an aura component that allows setting a count-down in screens flows and run to the next screen/action automatically, reasons to use this in your solution:
 - Set a verification loop in your flow, so the user does not have to click on any refresh button.
